@@ -54,15 +54,14 @@ Setting a connection with another host (in the same domain) and sending its a me
  
  ## There are always ways to improve
  
-We are aware of the fact that this project isn't perfect and has a bunch of flaws.
-* There are errors somewhere that would have to be fixed (such as closing a connection multiple times can lead to a situation where you can't send a message anymore).
-* There are also certain logs on the consoles that we didn't have time to write.
+We are aware of the fact that this project isn't perfect and has a space to be improved.
+* Instead of having a console view of the project, it would be better-looking if it had GUI.
+* The network could be expanded into a bigger one, with more domains and subnetworks.
 * And many more :)
-However, there isn't anything that is perfect and couldn't be better.
 
 ## Other authors of the project:
 
-* K. Czapliñska
+* K. Czaplinska
 * K. Czerkas
 * W. Kondrusik
  
